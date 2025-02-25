@@ -3,7 +3,7 @@ This project aims to predict the selling prices of used cars based on various fe
 
 **Project Objectives**
 
--Perform exploratory data analysis (EDA) to uncover key insights and patterns within the dataset.
+-Perform exploratory data analysis (EDA) to uncover key insights and patterns within the dataset. 
 
 -Build and evaluate machine learning models to predict car selling prices.
 
